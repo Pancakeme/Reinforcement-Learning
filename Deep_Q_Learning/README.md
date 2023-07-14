@@ -1,6 +1,5 @@
-# Reinforcement-Learning
+# Deep Q Learning
 
-This repository contains links to papers and implementations of various reinforcement learning algorithms on Open AI gym environments.
+Implementation - [Link](./DQN.py)
 
-## Models
- - Q Learning - [Link](/Q Learning/)
+Paper - [Link](./DQN.pdf)
