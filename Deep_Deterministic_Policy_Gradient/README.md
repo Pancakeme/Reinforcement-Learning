@@ -1,6 +1,5 @@
-# Reinforcement-Learning
+# Deep Deterministic Policy Gradient
 
-This repository contains links to papers and implementations of various reinforcement learning algorithms on Open AI gym environments.
+Implementation - [Link](./DDPG.ipynb/)
 
-## Models
- - Q Learning - [Link](/Q Learning/)
+Paper - [Link](./DDPG.pdf)
