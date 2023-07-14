@@ -1,6 +1,5 @@
-# Reinforcement-Learning
+# Actor Critic
 
-This repository contains links to papers and implementations of various reinforcement learning algorithms on Open AI gym environments.
+Implementation - [Link](./Actor_Critic.ipynb/)
 
-## Models
- - Q Learning - [Link](/Q Learning/)
+Paper - [Link](./Actor_Critic.pdf)
