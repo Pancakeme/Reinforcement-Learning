@@ -1,6 +1,5 @@
-# Reinforcement-Learning
+# Q Learning
 
-This repository contains links to papers and implementations of various reinforcement learning algorithms on Open AI gym environments.
+Implementation - [Link](./Q_Learning.ipynb/)
 
-## Models
- - Q Learning - [Link](/Q Learning/)
+Paper - [Link](./Q_Learning.pdf)
