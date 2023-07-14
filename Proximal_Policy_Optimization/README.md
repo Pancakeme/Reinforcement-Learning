@@ -1,6 +1,5 @@
-# Reinforcement-Learning
+# Proximal Policy Optimization (PPO)
 
-This repository contains links to papers and implementations of various reinforcement learning algorithms on Open AI gym environments.
+Implementation - [Link](./PPO.ipynb/)
 
-## Models
- - Q Learning - [Link](/Q Learning/)
+Paper - [Link](./PPO.pdf)
